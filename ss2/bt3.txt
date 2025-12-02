@@ -1,0 +1,35 @@
+1. Tạo công việc mới (Create Task)
+
+Mô tả: Người dùng có thể tạo công việc mới, nhập tiêu đề, mô tả chi tiết, ngày bắt đầu và hạn hoàn thành.
+Ưu tiên: Must have
+Story Points: 3
+
+2. Chỉnh sửa và xóa công việc (Edit & Delete Task)
+
+Mô tả: Cho phép người dùng cập nhật thông tin công việc hoặc xóa công việc khỏi danh sách.
+Ưu tiên: Must have
+Story Points: 5
+
+3. Đánh dấu công việc hoàn thành (Mark Task as Completed)
+
+Mô tả: Người dùng có thể thay đổi trạng thái công việc sang “Hoàn thành” để theo dõi tiến độ.
+Ưu tiên: Must have
+Story Points: 2
+
+4. Danh sách và lọc công việc (Task List & Filters)
+
+Mô tả: Hiển thị danh sách toàn bộ công việc; hỗ trợ lọc theo trạng thái, ngày, độ ưu tiên hoặc từ khóa.
+Ưu tiên: Should have
+Story Points: 5
+
+5. Nhắc nhở & thông báo công việc (Task Reminders & Notifications)
+
+Mô tả: Hệ thống gửi thông báo trước ngày đến hạn hoặc khi công việc sắp trễ hạn.
+Ưu tiên: Should have
+Story Points: 8
+
+6. Đồng bộ dữ liệu đa thiết bị (Sync Across Devices) – (Bonus PBI nếu bạn cần thêm)
+
+Mô tả: Người dùng có thể xem và quản lý công việc trên nhiều thiết bị với dữ liệu được đồng bộ theo thời gian thực.
+Ưu tiên: Could have
+Story Points: 13

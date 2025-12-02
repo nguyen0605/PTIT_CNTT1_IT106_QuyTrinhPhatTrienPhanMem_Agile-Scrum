@@ -1,0 +1,16 @@
+"As a customer, I want to pay for my order using credit cards or e-wallets so that I can complete my purchase quickly and securely with my preferred payment method."
+
+🔍 Phân tích theo cấu trúc
+Role (Vai trò):
+
+Customer (Khách hàng) – Người đang mua hàng và cần thực hiện thanh toán.
+
+Goal (Mục tiêu):
+
+Pay for the order using credit cards or e-wallets
+(Thanh toán đơn hàng thông qua thẻ tín dụng hoặc ví điện tử).
+
+Benefit (Lợi ích):
+
+Complete the purchase quickly, securely, and with preferred method
+(Hoàn tất giao dịch nhanh chóng, an toàn và phù hợp với phương thức khách hàng muốn sử dụng).

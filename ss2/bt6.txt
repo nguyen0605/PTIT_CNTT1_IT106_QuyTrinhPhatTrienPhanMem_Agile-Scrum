@@ -1,0 +1,51 @@
+MoSCoW Prioritization – Task Management App
+✅ 1. Must Have (Phải có)
+
+Những chức năng cốt lõi, không thể thiếu để ứng dụng hoạt động.
+
+1. Tạo công việc mới (Create Task)
+
+Mức độ quan trọng: Cần để người dùng bắt đầu sử dụng ứng dụng.
+→ Đã được đánh dấu Must have trong Product Backlog.
+
+2. Chỉnh sửa và xóa công việc (Edit & Delete Task)
+
+Mức độ quan trọng: Người dùng phải có khả năng quản lý thông tin công việc.
+→ Cần thiết để duy trì dữ liệu chính xác.
+
+3. Đánh dấu công việc hoàn thành (Mark Task as Completed)
+
+Mức độ quan trọng: Quản lý tiến độ là chức năng cốt lõi.
+→ Giúp người dùng theo dõi công việc và hoàn thành nhiệm vụ.
+
+🟡 2. Should Have (Nên có)
+
+Mang lại giá trị cao nhưng không bắt buộc ở phiên bản đầu tiên.
+
+4. Danh sách và bộ lọc công việc (Task List & Filters)
+
+Mang lại trải nghiệm tốt hơn, giúp người dùng tìm kiếm nhanh hơn.
+→ Rất hữu ích nhưng có thể làm sau core functions.
+
+5. Nhắc nhở & thông báo công việc (Task Reminders & Notifications)
+
+Giúp người dùng không quên deadline.
+→ Quan trọng nhưng không cần thiết để vận hành version 1.
+
+🟢 3. Could Have (Có thể có)
+
+Tính năng cải tiến, tăng trải nghiệm, không ảnh hưởng cốt lõi.
+
+6. Đồng bộ dữ liệu đa thiết bị (Sync Across Devices)
+
+Tính năng nâng cao – cải thiện trải nghiệm nhưng không bắt buộc ngay.
+→ Có thể đưa vào các Sprint sau hoặc phiên bản nâng cấp.
+
+🔴 4. Won’t Have (Không cần có trong thời điểm hiện tại)
+
+Được xác định là không nằm trong phạm vi của Sprint/phiên bản này.
+
+7. Chủ đề tùy chỉnh giao diện (Custom Themes – Dark/Light mode)
+
+Giá trị không cao cho giai đoạn đầu, thuộc dạng UI enhancement.
+→ Có thể bỏ qua ở phiên bản đầu.

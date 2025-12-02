@@ -1,0 +1,41 @@
+1. Tìm kiếm sự kiện (Search Events)
+
+Mô tả: Người dùng có thể tìm kiếm sự kiện theo tên, thể loại (âm nhạc, hội thảo, workshop…), địa điểm và thời gian tổ chức.
+Ưu tiên: Must have
+Story Points: 3
+
+2. Xem chi tiết sự kiện (Event Details Page)
+
+Mô tả: Hiển thị thông tin chi tiết của sự kiện: mô tả, thời gian, địa điểm, giá vé, số lượng vé còn lại, hình ảnh và thông tin ban tổ chức.
+Ưu tiên: Must have
+Story Points: 5
+
+3. Chọn vé và thêm vào giỏ vé (Select Tickets & Add to Cart)
+
+Mô tả: Người dùng có thể chọn loại vé (thường, VIP…), số lượng vé và thêm vào giỏ vé để chuẩn bị thanh toán.
+Ưu tiên: Must have
+Story Points: 5
+
+4. Thanh toán vé (Ticket Checkout & Payment)
+
+Mô tả: Người dùng có thể thanh toán vé thông qua các phương thức như thẻ tín dụng, ví điện tử hoặc chuyển khoản.
+Ưu tiên: Must have
+Story Points: 8
+
+5. Quản lý vé đã đặt (My Tickets Management)
+
+Mô tả: Người dùng có thể xem danh sách vé đã mua, tình trạng vé, mã QR hoặc mã e-ticket để quét khi tham dự sự kiện.
+Ưu tiên: Should have
+Story Points: 5
+
+6. Bộ lọc sự kiện nâng cao (Advanced Filters) — (Optional thêm nếu cần)
+
+Mô tả: Lọc theo giá vé, vị trí, số lượng chỗ trống, sự kiện miễn phí hoặc sự kiện trending.
+Ưu tiên: Could have
+Story Points: 8
+
+7. Hệ thống đánh giá & bình luận sự kiện (Event Reviews & Ratings) — (Bonus)
+
+Mô tả: Người dùng có thể đánh giá sự kiện sau khi tham dự và đọc đánh giá từ người khác.
+Ưu tiên: Could have
+Story Points: 13

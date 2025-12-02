@@ -1,0 +1,12 @@
+"As a customer, I want to add products to my shopping cart so that I can review and purchase them conveniently in a single checkout."
+Role (Vai trò):
+
+Customer (Khách hàng) – Người truy cập ứng dụng để xem và mua sản phẩm.
+
+Goal (Mục tiêu):
+
+Add products to the shopping cart – Thêm một hoặc nhiều sản phẩm vào giỏ hàng để lưu lại những gì muốn mua.
+
+Benefit (Lợi ích):
+
+Review and purchase conveniently in one checkout – Khách hàng có thể xem lại, so sánh và thanh toán tất cả sản phẩm trong một lần, giúp tiết kiệm thời gian và dễ quản lý.

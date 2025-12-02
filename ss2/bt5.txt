@@ -1,0 +1,29 @@
+1. Thêm sản phẩm vào giỏ hàng thành công
+
+Given người dùng đang xem trang chi tiết sản phẩm
+When người dùng nhấn nút “Add to Cart”
+Then sản phẩm được thêm vào giỏ hàng
+And số lượng sản phẩm trong biểu tượng giỏ hàng được cập nhật
+And hệ thống hiển thị thông báo “Đã thêm vào giỏ hàng”.
+
+2. Thêm sản phẩm đã có trong giỏ → tăng số lượng
+
+Given giỏ hàng đã có sản phẩm A
+When người dùng nhấn “Add to Cart” trên sản phẩm A thêm lần nữa
+Then hệ thống không tạo dòng sản phẩm mới mà tăng số lượng của sản phẩm A lên 1
+And tổng giá trị giỏ hàng được cập nhật.
+
+3. Không thể thêm sản phẩm khi hết hàng
+
+Given sản phẩm B đã hết hàng (Out of Stock)
+When người dùng cố nhấn nút “Add to Cart”
+Then hệ thống không cho phép thêm sản phẩm vào giỏ
+And hiển thị thông báo “Sản phẩm đã hết hàng”.
+
+(Tùy chọn – thêm nếu bạn muốn 4 tiêu chí)
+4. Giỏ hàng lưu trạng thái khi người dùng chuyển trang
+
+Given người dùng đã thêm ít nhất 1 sản phẩm
+When người dùng điều hướng sang trang khác (Home, Category…)
+Then sản phẩm vẫn còn trong giỏ hàng
+And số lượng không thay đổi.
